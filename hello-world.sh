@@ -1,7 +1,7 @@
 #
 # Hello-World Reposity
 #
-# Yes, i know, this Script does acctually nothing.
+# Yes, i know, this Script does actually nothing.
 # 
 # ^^
 #
