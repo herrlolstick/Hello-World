@@ -3,7 +3,6 @@
 
 
 # hello-world.sh
-### Yes, i know, this script does really nothing.
 
 
 To late to be productive.
